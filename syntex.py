@@ -1,5 +1,6 @@
- #if 4 > 2 :
-    #print ("four is greater then two")
+if 4 > 2:
+ print ("four is greater than two")
+#output = four is greater than two 
 
 a = 4 
 b = 7
